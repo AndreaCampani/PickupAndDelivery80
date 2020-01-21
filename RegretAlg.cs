@@ -20,7 +20,7 @@ namespace Pickup_and_Delivery_E80
 		private int F_count;
 		private Problem f;
 		private Solution sol;
-		public string algorithm_name;
+		public string algorithm_name;//ciao
 		public AlgRegret(Problem p)
 		{
 			this.f = p;
